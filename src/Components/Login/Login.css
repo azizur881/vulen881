@@ -1,0 +1,11 @@
+#google-btn{
+    width:290px;
+    font-weight: 300;
+    background-color:white;
+    color:black;
+    position: absolute;
+    bottom:68px;
+    left:40%;
+    border:1px solid blue;
+    border-radius: 40px;
+}
